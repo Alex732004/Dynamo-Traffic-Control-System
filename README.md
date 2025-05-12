@@ -1,4 +1,4 @@
-# Dynamo-Traffic-Control-System
+# Dynamo Traffic Control System
 
 ---
 
