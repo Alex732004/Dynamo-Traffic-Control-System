@@ -1,4 +1,8 @@
-# Dynamo Traffic Control System
+<h1 align="center">Dynamo Traffic Control System</h1>
+
+**Dynamo Traffic Control System** (aka **Dynamo Hub**) is an AI-driven, full-stack platform that empowers city planners and traffic engineers with real-time insights into urban traffic patterns. By ingesting live feeds from government sources, Dynamo Hub applies machine-learning models and data-visualization techniques to identify congestion hotspots, predict traffic flows, and flag critical incidents as they happen.
+
+Users sign up under their city’s access code and land on a customizable dashboard showing key metrics—total and active event counts, heatmaps of high-congestion zones, intersection-level summaries, and more. Drill down into individual intersections for granular signal control, receive real-time alerts for severe incidents, and consult a detailed, filterable event log. An emulator lets you generate mock data for testing without affecting production.
 
 ---
 
@@ -49,6 +53,7 @@
 ## Admin
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d60c5778-281c-465b-8244-7a20ed81ad75" alt="Admin Page 1" width="45%" />
-  <img src="https://github.com/user-attachments/assets/81c36c00-52fd-42d4-a0b5-535e68e3a7d8" alt="Admin Page 2" width="45%" />
+  <img src="https://github.com/user-attachments/assets/d60c5778-281c-465b-8244-7a20ed81ad75" alt="Admin Page 1" width="50%" />
+  <img src="https://github.com/user-attachments/assets/81c36c00-52fd-42d4-a0b5-535e68e3a7d8" alt="Admin Page 2" width="50%" />
 </p>
+
