@@ -53,7 +53,7 @@ Users sign up under their city’s access code and land on a customizable dashbo
 ## Admin
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d60c5778-281c-465b-8244-7a20ed81ad75" alt="Admin Page 1" width="50%" />
-  <img src="https://github.com/user-attachments/assets/81c36c00-52fd-42d4-a0b5-535e68e3a7d8" alt="Admin Page 2" width="50%" />
+  <img src="https://github.com/user-attachments/assets/d60c5778-281c-465b-8244-7a20ed81ad75" alt="Admin Page 1" width="45%" />
+  <img src="https://github.com/user-attachments/assets/81c36c00-52fd-42d4-a0b5-535e68e3a7d8" alt="Admin Page 2" width="45%" />
 </p>
 
