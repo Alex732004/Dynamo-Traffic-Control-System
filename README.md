@@ -13,9 +13,9 @@
 ## Dashboard Pages
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/733795f2-b1b6-43f2-a86c-bfcfc21f7c95" alt="Dashboard Page 1" width="30%" />
-  <img src="https://github.com/user-attachments/assets/aa5a12bf-d7c8-4afc-9122-a8eecfdd0981" alt="Dashboard Page 2" width="30%" />
-  <img src="https://github.com/user-attachments/assets/d5abadd2-d154-495e-a32c-b532d737cc61" alt="Dashboard Page 3" width="30%" />
+  <img src="https://github.com/user-attachments/assets/733795f2-b1b6-43f2-a86c-bfcfc21f7c95" alt="Dashboard Page 1" width="50%" />
+  <img src="https://github.com/user-attachments/assets/aa5a12bf-d7c8-4afc-9122-a8eecfdd0981" alt="Dashboard Page 2" width="50%" />
+  <img src="https://github.com/user-attachments/assets/d5abadd2-d154-495e-a32c-b532d737cc61" alt="Dashboard Page 3" width="50%" />
 </p>
 
 ---
