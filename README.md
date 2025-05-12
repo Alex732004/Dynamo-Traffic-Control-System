@@ -6,19 +6,6 @@ A team of 6 undergrads at the University of Toronto partnered with Dynamo to hel
 
 Under the hood, Dynamo Hub leverages a modern tech stack for scalability and performance:
 
-- **Frontend:** React 18 with TypeScript, Tailwind CSS, TanStack Query, React-Leaflet for interactive maps, Recharts for data graphs, and shadcn/ui for polished components.  
-- **Backend:** Flask (Gunicorn + nginx on AWS EC2) serving a PostgreSQL database (AWS RDS), with Pandas/NumPy for data processing, Flask-Sock for WebSockets, and JWT-based authentication.  
-- **Infrastructure:** Vercel for frontend hosting, AWS EC2 + RDS for backend and data, and robust system monitoring via psutil.
-
-This project showcases end-to-end design and development of a real-time traffic management solution—including user authentication, search and filter capabilities, dark-mode support, and a comprehensive admin panel for city-level governance—and demonstrates my ability to build complex, data-heavy applications using modern web technologies.
-<h1 align="center">Dynamo Traffic Control System</h1>
-
-A team of 6 undergrads at the University of Toronto partnered with Dynamo to help develop this traffic management system.
-
-**Dynamo Traffic Control System** (aka **Dynamo Hub**) is an AI-driven, full-stack platform that empowers city planners and traffic engineers with real-time insights into urban traffic patterns. By ingesting live feeds from government sources, Dynamo Hub applies machine-learning models and data-visualization techniques to identify congestion hotspots, predict traffic flows, and flag critical incidents as they happen.
-
-Under the hood, Dynamo Hub leverages a modern tech stack for scalability and performance:
-
 - **Frontend:** React 18 w/ TypeScript, Tailwind CSS, TanStack Query, React-Leaflet, Recharts, shadcn/ui  
 - **Backend:** Flask (Gunicorn + nginx on AWS EC2), PostgreSQL (RDS), Pandas/NumPy, Flask-Sock, JWT auth  
 - **Infrastructure:** Vercel (frontend), AWS EC2 + RDS (backend), psutil monitoring  
@@ -32,6 +19,7 @@ Under the hood, Dynamo Hub leverages a modern tech stack for scalability and per
 - **Admin & Settings Panel:** City-level governance—manage users, sensors, notification preferences, and dark-mode toggling.  
 
 This project showcases end-to-end design and development of a real-time traffic management solution—and demonstrates my ability to build complex, data-heavy applications using modern web technologies.
+
 
 ---
 
