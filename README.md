@@ -2,7 +2,7 @@
 
 A partnership between a team of 6 undergrads at the University of Toronto and Dynamo to help develop this traffic management system.
 
-**Dynamo Traffic Control System** (aka **Dynamo Hub**) is an AI-driven, full-stack platform that empowers city planners and traffic engineers with real-time insights into urban traffic patterns. By ingesting live feeds from government sources, Dynamo Hub applies machine-learning models and data-visualization techniques to identify congestion hotspots, predict traffic flows, and flag critical incidents as they happen.
+**Dynamo Traffic Control System** (aka **Dynamo Hub**) is an AI-driven, full-stack platform that empowers city planners and traffic engineers with real-time insights into urban traffic patterns. By ingesting live feed sources, Dynamo Hub applies machine-learning models and data-visualization techniques to identify congestion hotspots, predict traffic flows, and flag critical incidents as they happen.
 
 Under the hood, Dynamo Hub leverages a modern tech stack for scalability and performance:
 
